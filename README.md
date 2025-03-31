@@ -14,6 +14,26 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AtulVerma-blue?logo=linkedin)](https://www.linkedin.com/in/atul-verma-11207947/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-AtulVerma.com-red)](https://www.gooseberrytechnovision.com/)
 
+# 🔥 ChatImage-Mingle
+
+A real-time image-sharing chat application built with Next.js, WebSockets, and Firebase.
+
+## 🚀 Features
+- Instant image uploads 📸
+- Real-time chat messages 💬
+- Secure authentication 🔐
+
+## 🛠️ Tech Stack
+- **Frontend:** Next.js, TailwindCSS
+- **Backend:** Firebase, WebSockets
+- **Deployment:** Vercel
+
+## 🏃 Getting Started
+```sh
+git clone https://github.com/Atulvermaon18/chatimage-mingle.git
+cd chatimage-mingle
+npm install
+npm run dev
 
 
 ## **3. Add Badges & Shields**
